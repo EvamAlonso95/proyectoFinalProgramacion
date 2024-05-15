@@ -1,0 +1,46 @@
+body {
+    background: ivory !important;
+}
+
+header {
+    background-color: #fff;
+
+}
+
+/* CSS DEL LOGIN */
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+}
+
+@media (min-width: 1025px) {
+    .h-custom-2 {
+        height: calc(100vh - 88px);
+    }
+}
+
+.container-custom {
+    width: 90%;
+}
+
+/* CSS DE LA CABECERA - EVENTOS */
+
+.enlace-cabecera h1 {
+    color: #000;
+}
+
+/* CSS DE LA CABECERA - Perfil */
+.cabecera-perfil {
+    background: skyblue;
+}
+
+
+/*CSS IMAGENES CARDS*/
+
+.card-imagen {
+    width: 100%;
+    height: 265px;
+}
